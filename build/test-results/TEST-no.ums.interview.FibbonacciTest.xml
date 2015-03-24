@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="no.ums.interview.FibbonacciTest" tests="2" failures="0" errors="0" timestamp="2015-03-21T18:14:53" hostname="Sutapa-HP" time="0.033">
+  <properties/>
+  <testcase name="testEvenSum" classname="no.ums.interview.FibbonacciTest" time="0.018"/>
+  <testcase name="testFirstNumbers" classname="no.ums.interview.FibbonacciTest" time="0.014"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
